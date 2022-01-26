@@ -1,0 +1,19 @@
+:root {
+  --blue : #40e0d0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Arima Madurai', cursive;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
