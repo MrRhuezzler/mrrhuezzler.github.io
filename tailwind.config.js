@@ -7,10 +7,10 @@ module.exports = {
         dark: "#0f0e12",
       },
       animation: {
-        "move-gradient-bg": "move-gradient-bg 2s infinite linear",
+        "move-gradient-bg": "move-gradient-bg 8s infinite linear",
       },
       fontFamily: {
-        ruluko: ["Ruluko", "sans-serif"],
+        mario: ["'Press Start 2P'", "cursive"],
       },
     },
   },
